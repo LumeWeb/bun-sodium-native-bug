@@ -1,0 +1,8 @@
+{
+  "name": "bun-sodium-native-bug",
+  "version": "1.0.0",
+  "dependencies": {
+    "bun": "^0.7.4-canary.20230815.1",
+    "sodium-native": "^4.0.4"
+  }
+}
